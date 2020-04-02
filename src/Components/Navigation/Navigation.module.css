@@ -1,0 +1,36 @@
+
+.Navigation {
+    text-align: right;
+    padding: 0 40%;
+}
+
+.Reroute:hover{
+    text-decoration: none;
+    color: red;
+}
+
+.Reroute {
+    text-decoration: none;
+    color: white;
+    padding-left: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li{
+    display: inline;
+    position: relative;
+}
+.Logo {
+    display: inline-block; 
+    padding-right: 10px;
+    background-color: none;
+    max-height: 38px;
+    max-width: 50px;
+}
+
+.Container{
+    display: inline-block;
+}

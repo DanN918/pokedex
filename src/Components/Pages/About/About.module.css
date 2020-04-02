@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+}
+
+p {
+    padding-top: 10px;
+    font-size: 18px;
+}
+
+/* li{
+    display: block;
+    list-style-type:disc!important;
+} */
+
+.List {
+    display: block;
+    font-size: 20px;
+    display:list-item;
+    list-style-type:disc!important;
+    text-align: left;
+    padding-top: 5px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    text-decoration: underline;
+}
